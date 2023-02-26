@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm [Dozingfiretruck](https://github.com/Dozingfiretruck) 👋
+
+![Dozingfiretruck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dozingfiretruck&theme=github_dark&show_icons=true&count_private=true&hide=stars)
+
+
+
+
 
 <!--
 **Dozingfiretruck/Dozingfiretruck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
