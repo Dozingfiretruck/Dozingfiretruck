@@ -1,8 +1,6 @@
 ### Hi, I'm [Dozingfiretruck](https://github.com/Dozingfiretruck) 👋
 
-![Dozingfiretruck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dozingfiretruck&theme=github_dark&show_icons=true&count_private=true&hide=stars)
-
-
+![Dozingfiretruck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dozingfiretruck&theme=github_dark&show_icons=true&count_private=true&hide=stars)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dozingfiretruck&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
