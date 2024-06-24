@@ -1,8 +1,16 @@
-### Hi, I'm [Dozingfiretruck](https://github.com/Dozingfiretruck) 👋
+### Hi, I'm [Dozingfiretruck](https://github.com/Dozingfiretruck) 👋 Welcome to my OpenSource Projects!
 
-![Dozingfiretruck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dozingfiretruck&layout=compact&theme=github_dark&card_width=500&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dozingfiretruck&layout=compact&theme=github_dark&card_width=500)
+
+- 🤝 I’m looking to collaborate on anything interesting
+
+  
+
+| ⚡ Stats ⚡                                                    | 💬 Programming Languages 💬                                    |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| ![Dozingfiretruck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dozingfiretruck&layout=compact&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dozingfiretruck&layout=compact&theme=github_dark&) |
+
+
 
 <!-- <div class="d-block">
     <a href="https://github.com/Dozingfiretruck/nes">
@@ -13,6 +21,7 @@
     </a>
 </div>
 <br>
+
 <div class="d-block">
     <a href="https://github.com/Dozingfiretruck/MCUProg">
     <img align="left" width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Dozingfiretruck&layout=compact&theme=github_dark&repo=MCUProg" />
